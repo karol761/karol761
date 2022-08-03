@@ -1,9 +1,9 @@
 ## Olá! Eu sou a Karoline Santos✌️
 
 <div>
-  <a href="https://www.linkedin.com/in/marian-karoline-dos-santos-medeiros-8443a820a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-  <img align="right" alt="Karol-gif" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
-</div><br>
+  
+  <a href="https://www.linkedin.com/in/marian-karoline-dos-santos-medeiros-8443a820a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
 
 - 🔭 Em busca de trabalho e novos desafios
 - 🌱 Estudando Angular e Java
